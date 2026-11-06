@@ -1,0 +1,10 @@
+{
+  "slug": "pokemon-showup",
+  "id": "pokemon-showup",
+  "name": "Pokémon ShowUp",
+  "version": "0.5.0+r36s-audio.20261012",
+  "tag": "v0.5.0-r36s-audio.20261012-distribution.20261106",
+  "download": "https://github.com/EoTutts/pokemon-showup/releases/download/v0.5.0-r36s-audio.20261012-distribution.20261106/pokemon-showup-linux-arm64.zip",
+  "package_sha256": "e81b86cc82b401015b3603f9651c11c4efd1d6b254600fcf137c62e0acb0d0ea",
+  "package_bytes": 884315799
+}

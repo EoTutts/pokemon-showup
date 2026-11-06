@@ -1,0 +1,14 @@
+{
+  "id": "pokemon-showup",
+  "name": "Pokémon ShowUp",
+  "description": "Batalhas Pokémon acessíveis, times, partidas locais e em rede, e modo Jornada.",
+  "version": "0.5.0+r36s-audio.20261012",
+  "contract": 1,
+  "runtime": "dotnet",
+  "exec": "engine/Pokemon.Sdk.dll",
+  "languages": [
+    "pt-BR",
+    "en-US"
+  ],
+  "author": "Pokémon ShowUp contributors"
+}

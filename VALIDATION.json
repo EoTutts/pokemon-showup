@@ -11,5 +11,10 @@
   "base_sha256": "e81b86cc82b401015b3603f9651c11c4efd1d6b254600fcf137c62e0acb0d0ea",
   "package_sha256": "ce893e2a695467bb15a611bc0b93c22fd5024023179ced0193c8a22f7efffc8b",
   "sdk_public_api": "unchanged from previous package (reflection comparison)",
-  "controls": "passed; real SDK input dispatch with synthetic events"
+  "controls": "passed; real SDK input dispatch with synthetic events",
+  "ci": {
+    "conclusion": "success",
+    "url": "https://github.com/EoTutts/pokemon-showup/actions/runs/44599535238",
+    "environment": "Ubuntu; real AF_UNIX SSIP contract tests"
+  }
 }

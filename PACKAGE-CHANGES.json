@@ -1,0 +1,21 @@
+{
+  "sha256": "ce893e2a695467bb15a611bc0b93c22fd5024023179ced0193c8a22f7efffc8b",
+  "bytes": 884320264,
+  "changed_files": [
+    {
+      "path": "engine/R36S.A11y.dll",
+      "before": "6e44f3b67fa50646f28e7ec099ba8fa167184b18a954dd732da9cd6c9c536103",
+      "after": "07bc715b6428a655c3717e4d135a2dd9257df29eea03d7423ebb22aa91c989dc"
+    },
+    {
+      "path": "game.json",
+      "before": "45c84d414db73900a3057a157370247f7fb0e505788ce64a4eff33047d3aff1e",
+      "after": "fff3b364daa29098a6c836435237a6784e15fa84be268a8b67add715e95d8368"
+    },
+    {
+      "path": "COMPATIBILITY.md",
+      "before": null,
+      "after": "db2eda14f9fcf72fa7457d266964e2ffde76a293bb403d4da86de018ae578340"
+    }
+  ]
+}

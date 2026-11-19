@@ -2,11 +2,11 @@
 
 Batalhas Pokémon com times de seis, IA, dois jogadores no mesmo console, partidas em rede e campanha Jornada de nove regiões.
 
-Este é o repositório de distribuição dos pacotes preparados no projeto R36S. A versão interna do jogo é **0.5.0+r36s-audio.20261012**; a release de distribuição é de 06/11/2026.
+Este é o repositório de distribuição dos pacotes preparados no projeto R36S. A versão interna do jogo é **0.5.1+r36s-audio.20261119**; a release de distribuição é de 19/11/2026.
 
 ## Baixar
 
-[Pacote R36S ARM64](https://github.com/EoTutts/pokemon-showup/releases/download/v0.5.0-r36s-audio.20261012-distribution.20261106/pokemon-showup-linux-arm64.zip) · [Release e SHA-256](https://github.com/EoTutts/pokemon-showup/releases/tag/v0.5.0-r36s-audio.20261012-distribution.20261106)
+[Pacote R36S ARM64](https://github.com/EoTutts/pokemon-showup/releases/download/v0.5.1-luma.20261119/pokemon-showup-linux-arm64.zip) · [Release e SHA-256](https://github.com/EoTutts/pokemon-showup/releases/tag/v0.5.1-luma.20261119)
 
 ## Requisitos e estado
 
@@ -27,3 +27,7 @@ O pacote foi conferido quanto ao manifesto, executável e SHA-256. Não acompanh
 ## Créditos e licenças
 
 O motor Pokémon Showdown é MIT. Pokémon, imagens, músicas e sons têm direitos e créditos próprios; consulte CREDITS.md, GEN9-CREDITS.txt e os demais créditos do pacote. Os avisos de terceiros presentes no pacote devem ser mantidos. Não se atribui uma licença única a todo o conteúdo.
+
+## Correções de compatibilidade
+
+A revisão de 19/11/2026 corrige o uso da configuração de fala do Luma. [Causa, código, testes e reprodução](COMPATIBILITY.md). A validação física no dArkOS continua pendente.
